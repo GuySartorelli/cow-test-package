@@ -5,3 +5,4 @@ just making some changes here.
 More stuff.
 
 Patch release.
+Minor

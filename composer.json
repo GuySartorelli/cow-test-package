@@ -1,0 +1,10 @@
+{
+    "name": "guysartorelli/cow-test-package",
+    "type": "silverstripe-vendormodule",
+    "description": "A package for testing silverstripe/cow",
+    "require": {
+        "silverstripe/framework": "^4"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
